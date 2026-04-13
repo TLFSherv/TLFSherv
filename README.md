@@ -1,9 +1,7 @@
 ### Hi, I'm Sherwin 👋
 
 **Full-Stack Developer** | C# / .NET + React / TypeScript  
-Ex-Deloitte | Building scalable RESTful APIs and data-rich applications that deliver real user value.
-
-I spent over 2 years engineering enterprise applications at Deloitte and have recently shipped three production-grade personal projects in energy analytics, solar simulation, and logistics.
+Building scalable RESTful APIs and data-rich applications that deliver real user value.
 
 **🚀 Currently Shipping**
 
